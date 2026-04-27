@@ -29,4 +29,4 @@
 
 | 日期 | 變更說明 |
 |:-----|:---------|
-| %Y->- (HEAD -> master) | first commit |
+| %Y->- (HEAD -> main) | first commit |
