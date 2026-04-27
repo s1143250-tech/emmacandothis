@@ -29,4 +29,4 @@
 
 | 日期 | 變更說明 |
 |:-----|:---------|
-| %Y->- (HEAD -> master) | 初始版本 - UNO 遊戲完成 |
+| %Y->- (HEAD -> master) | first commit |
